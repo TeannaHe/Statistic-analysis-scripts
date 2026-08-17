@@ -1,1 +1,7 @@
-It is written in Python, called myStatisticCode, you can download the whole folder and put the folder into the same folder where your own script is.
+It is written in Python. 
+You can download all the scripts and put them in one folder named 'myStatisticCode'. 
+Put it in the same folder as your own script.
+
+How to use:
+For instance, if you want to pairwise compare your data in two groups:
+from myStatisticCode.pair_wise_compare import pairWiseCompare
